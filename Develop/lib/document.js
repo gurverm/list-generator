@@ -1,4 +1,7 @@
-// TODO: Import your Header, TaskList, and TaskListItem
+// Header, TaskList, and TaskListItem imported
+const Header = require('./header.js');
+const taskList = require('./taskList.js');
+const taskListItem = require('./taskListItem.js');
 
 function createDocument(title, tasks = []) {
   // TODO: Create a new Header

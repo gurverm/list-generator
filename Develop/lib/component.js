@@ -1,6 +1,3 @@
-const { Component } = require("react");
-const { render } = require("react-dom");
-
 class component{
     constructor(children = []){
         this.children = children;
