@@ -1,4 +1,4 @@
-const Header = require('../lib/header.js');
+const Header = require('../Develop/lib/header.js');
 const { formatDate } = require('../lib/date.js');
 
 describe('Header', () => {

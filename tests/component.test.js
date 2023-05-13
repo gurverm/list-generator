@@ -1,4 +1,4 @@
-const Component = require('../lib/component.js');
+const Component = require('../Develop/lib/component.js');
 
 describe('Component', () => {
   test('should throw error if render() is called', () => {

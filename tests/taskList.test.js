@@ -1,5 +1,5 @@
-const TaskList = require('../lib/taskList.js');
-const TaskListItem = require('../lib/taskListItem.js');
+const TaskList = require('../Develop/lib/taskList.js');
+const TaskListItem = require('../Develop/lib/taskListItem.js');
 
 describe('TaskList', () => {
   test('should render ul with tasks', () => {
