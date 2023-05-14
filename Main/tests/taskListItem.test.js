@@ -1,4 +1,4 @@
-const TaskListItem = require('../Develop/lib/taskListItem');
+const TaskListItem = require('../lib/taskListItem.js');
 
 describe('TaskListItem', () => {
   test('should render an <li> for a task', () => {
